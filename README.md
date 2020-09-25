@@ -13,3 +13,7 @@ This helps in knowing the location of vehicle, which in return helps in proper p
 The tracking of the bus is done using the GPS system, by which the passenger can come to know the location of that particular bus in which he desires to travel by entering the required information in the website.
 Smart payment is also done through the website developed in this project, where a passenger needs to sign in and enter the required information for the payment. 
 This will even help in displaying the balance amount in his account.
+
+In order to start the server, run the app.js file.
+The python codes bus_locations.py and rfid.py are used to update location and for authenticity of RFID number respectively. 
+These 2 python codes should be running simultaneously when the server is ON.
